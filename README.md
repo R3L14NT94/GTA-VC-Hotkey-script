@@ -1,2 +1,3 @@
 # GTA-VC-Hotkey-script
-An automatic hotkey for entering cheats in Grand Theft Auto: Vice City with one key
+
+This is a hotkey script for gta-vc to enter cheats automatically with just one key, using a programmable keyboard as a secondary macro-keyboard.
